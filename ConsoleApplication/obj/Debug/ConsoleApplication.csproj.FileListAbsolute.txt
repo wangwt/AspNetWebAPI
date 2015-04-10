@@ -1,0 +1,10 @@
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
