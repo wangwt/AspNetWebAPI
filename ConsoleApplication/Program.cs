@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication
 {
+    /// <summary>
+    /// V0.1.1
+    /// </summary>
     class Program
     {
 
