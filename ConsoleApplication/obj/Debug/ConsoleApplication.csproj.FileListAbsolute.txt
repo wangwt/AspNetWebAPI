@@ -8,3 +8,6 @@ C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\bin\Debug\System.Net.Http.
 C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.exe
 C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+F:\GitHub\AspNetWebAPI\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+F:\GitHub\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+F:\GitHub\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

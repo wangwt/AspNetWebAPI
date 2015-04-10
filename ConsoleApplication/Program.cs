@@ -84,6 +84,9 @@ namespace ConsoleApplication
         }
     }
 
+    /// <summary>
+    /// 异步加载页面
+    /// </summary>
     class HtmlTextHandler : HttpClientHandler
     {
         protected async override Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
