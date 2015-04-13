@@ -11,3 +11,10 @@ C:\Users\chen\Desktop\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplicati
 F:\GitHub\AspNetWebAPI\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
 F:\GitHub\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.exe
 F:\GitHub\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+F:\GitHub\AspNetWebAPI\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+F:\GitHub\AspNetWebAPI\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+F:\GitHub\AspNetWebAPI\ConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+F:\GitHub\AspNetWebAPI\ConsoleApplication\bin\Debug\System.Net.Http.Formatting.dll
+F:\GitHub\AspNetWebAPI\ConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+F:\GitHub\AspNetWebAPI\ConsoleApplication\bin\Debug\System.Net.Http.Formatting.xml
+F:\GitHub\AspNetWebAPI\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache

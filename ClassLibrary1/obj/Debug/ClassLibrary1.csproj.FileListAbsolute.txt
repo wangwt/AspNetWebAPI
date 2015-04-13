@@ -1,0 +1,7 @@
+F:\GitHub\AspNetWebAPI\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\GitHub\AspNetWebAPI\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\GitHub\AspNetWebAPI\ClassLibrary1\bin\Debug\Nancy.dll
+F:\GitHub\AspNetWebAPI\ClassLibrary1\bin\Debug\Nancy.xml
+F:\GitHub\AspNetWebAPI\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+F:\GitHub\AspNetWebAPI\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\GitHub\AspNetWebAPI\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
